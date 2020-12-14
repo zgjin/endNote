@@ -3,7 +3,7 @@
 
 ## 第一步：下载 endNote x9.3.3 fixed
 
-(下载链接)[https://www.macwk.com/soft/endnote]
+[下载链接](https://www.macwk.com/soft/endnote)
 
 ## 第二步：安装防官方认证
 
